@@ -31,3 +31,9 @@ How to Run
 Result
 
 The project successfully demonstrates basic Unity scripting, mouse interaction, color effects, and object rotation using three different 3D cubes.
+<img width="1450" height="611" alt="Screenshot 2026-08-01 160647" src="https://github.com/user-attachments/assets/2430a2fa-eba5-41a6-9248-52892ba7d632" />
+NAME : RITHANYA S
+REG NO : 710725205086
+DEPARTMENT : B.TECH INFORMATION TECHNOLOGY
+
+
